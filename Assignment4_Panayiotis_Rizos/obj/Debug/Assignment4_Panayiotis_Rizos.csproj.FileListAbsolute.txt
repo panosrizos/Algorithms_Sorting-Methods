@@ -1,0 +1,7 @@
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\bin\Debug\Assignment4_Panayiotis_Rizos.exe.config
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\bin\Debug\Assignment4_Panayiotis_Rizos.exe
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\bin\Debug\Assignment4_Panayiotis_Rizos.pdb
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\obj\Debug\Assignment4_Panayiotis_Rizos.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\obj\Debug\Assignment4_Panayiotis_Rizos.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\obj\Debug\Assignment4_Panayiotis_Rizos.exe
+C:\Users\Παναγιώτης\source\repos\Assignment4_Panayiotis_Rizos\Assignment4_Panayiotis_Rizos\obj\Debug\Assignment4_Panayiotis_Rizos.pdb
